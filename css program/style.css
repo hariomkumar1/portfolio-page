@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.red{
+background-color: rgba(255, 0, 0);
+color: white;
+height: 344px;
+}
+
+.green{
+    background-color:rgba(0, 128, 0);
+    color: aqua;
+}
